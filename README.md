@@ -3,6 +3,7 @@
 ## Description
 
 This is a study guide created for bootcamp students. In the study guide you will find the four main topics that will be studied in the prework. Key note will be provided on each topic. I learned that each topic goes hand in hand with creating a webite that is helpful and informative.
+
 ## Installation
 
 N/A
